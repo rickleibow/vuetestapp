@@ -1,5 +1,9 @@
 # testapp
 
+
+This is a tutorial explaining introduction to the Test Driven Development with VueJs, Vue Test Utils and Jest
+
+link to the tutorial  will be provided soon!
 ## Project setup
 ```
 npm install
